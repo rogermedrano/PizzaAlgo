@@ -1,4 +1,5 @@
 1. Decide the pizza place
+    1a. Decide which is closest
 2. Decide what type of pizza I want
 3. Call the pizza place
 4. Order the pizza
